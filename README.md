@@ -1,9 +1,6 @@
 # Optimizing Calculations of Large Functions by using Dictionaries in Python
 With the help of Dictionary it is possible to optimize calculations of large functions
 
-### Courses:
-* Explore the course **"Convolutional Neural Networks for Image Classification"** here: https://stepik.org/course/53801/promo
-
 ### Reference to:
 [1] Valentyn N Sichkar. Optimizing Calculations of Large Functions by using Dictionaries in Python // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Optimizing_Calculations_of_Large_Functions_by_using_Dictionaries_in_Python (date of access: XX.XX.XXXX)
 
